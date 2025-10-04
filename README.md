@@ -18,8 +18,13 @@
 <br>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://fair-mimosa-69b.notion.site/PORTFOLIO-2159f76bdabf80749634c22385d20760?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://fair-mimosa-69b.notion.site/PORTFOLIO-2159f76bdabf80749634c22385d20760?source=copy_link"> </a>
- <a href=mailto:dev.yachea@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.yachea@gmail.com"> </a>
+    <div align= "center">
+        <a href=https://fair-mimosa-69b.notion.site/PORTFOLIO-2159f76bdabf80749634c22385d20760?source=copy_link>
+            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://fair-mimosa-69b.notion.site/PORTFOLIO-2159f76bdabf80749634c22385d20760?source=copy_link">
+        </a>
+<a href=mailto:dev.yachea@gmail.com>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.yachea@gmail.com">
+</a>
  </div> 
 </div>
 <div align= "center"> 
