@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hi%2C+I'm+yeo+chae+hyeon%F0%9F%91%8B;I+am+a+frontend+developer+specialized+in+design+and+development%2C;with+a+strong+focus+on+user+experience.)](https://git.io/typing-svg)
 
 
-<h3 align="center"><b>Skills</b></h3>
+<h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white"/>
@@ -17,12 +17,26 @@
 <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://fair-mimosa-69b.notion.site/PORTFOLIO-2159f76bdabf80749634c22385d20760?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://fair-mimosa-69b.notion.site/PORTFOLIO-2159f76bdabf80749634c22385d20760?source=copy_link"> </a>
+= <a href=mailto:dev.yachea@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.yachea@gmail.com"> </a>
+ </div> 
 </div>
 
-<h3 align="center"><b>협력도구</b></h3>
+
 <div align="center">
-<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="http://mazandi.herokuapp.com/api?handle=swoon&theme=cold"/>
 </div>
 
+
+
+
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeo chae hyeon%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+    
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=yeo chae hyeon&bg_color=60,1349c9,11d466&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeo chae hyeon&layout=compact&bg_color=60,1349c9,11d466&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+
+    
