@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=ChaeHyeon's%27s%20GitHub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=ChaeHyeon%27s%20GitHub&fontSize=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Hi%2C+I'm+yeo+chae+hyeon%F0%9F%91%8B;I+am+a+frontend+developer+specialized+in+design+and+development%2C;with+a+strong+focus+on+user+experience.)](https://git.io/typing-svg)
 
@@ -26,11 +26,4 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=yeocheah&bg_color=180,0b5ac1,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeocheah&layout=compact&bg_color=180,0b5ac1,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
-    </div>
-    
-
-<div align="center">
-<img src="http://mazandi.herokuapp.com/api?handle=swoon&theme=cold"/>
 </div>
-
-    
